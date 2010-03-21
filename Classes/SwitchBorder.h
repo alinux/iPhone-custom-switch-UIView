@@ -1,9 +1,8 @@
 //
 //  SwitchBorder.h
-//  todo
 //
 //  Created by Ali Nour on 3/17/10.
-//  Copyright 2010 Apple Inc. All rights reserved.
+//  Copyright 2010 BadrIT. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

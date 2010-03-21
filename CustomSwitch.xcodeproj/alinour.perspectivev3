@@ -272,7 +272,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>3</integer>
+									<integer>11</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -313,7 +313,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>4BF8FD6A11528CB100D3F9B4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>SwitchBorder.m</string>
+								<string>CustomSwitchAppDelegate.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -321,21 +321,23 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>4BF8FD6B11528CB100D3F9B4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>SwitchBorder.m</string>
+										<string>CustomSwitchAppDelegate.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>4BEB82931152957A00491CF5</string>
+										<string>4BB9F50111564B48001BC040</string>
 										<key>history</key>
 										<array>
-											<string>4BEB82531152921000491CF5</string>
-											<string>4BEB82551152921000491CF5</string>
-											<string>4BEB82731152930F00491CF5</string>
-											<string>4BEB82741152930F00491CF5</string>
-											<string>4BEB82751152930F00491CF5</string>
-											<string>4BEB827D1152934C00491CF5</string>
-											<string>4BEB828E1152945000491CF5</string>
-											<string>4BEB828F1152945000491CF5</string>
+											<string>4BB9F4F711564B48001BC040</string>
+											<string>4BB9F4F811564B48001BC040</string>
+											<string>4BB9F4F911564B48001BC040</string>
+											<string>4BB9F4FA11564B48001BC040</string>
+											<string>4BB9F4FB11564B48001BC040</string>
+											<string>4BB9F4FC11564B48001BC040</string>
+											<string>4BB9F4FD11564B48001BC040</string>
+											<string>4BB9F4FE11564B48001BC040</string>
+											<string>4BB9F4FF11564B48001BC040</string>
+											<string>4BB9F50011564B48001BC040</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -349,18 +351,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1073, 446}}</string>
+								<string>{{0, 0}, {1073, 441}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 133 1280 645 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>446pt</string>
+							<string>441pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>153pt</string>
+							<string>158pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -374,7 +376,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1073, 126}}</string>
+										<string>{{10, 27}, {1073, 131}}</string>
 										<key>RubberWindowFrame</key>
 										<string>0 133 1280 645 0 0 1280 778 </string>
 									</dict>
@@ -458,11 +460,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>4BEB82581152921000491CF5</string>
+				<string>4BB9F50211564B48001BC040</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>4BEB82591152921000491CF5</string>
+				<string>4BB9F50311564B48001BC040</string>
 				<string>4BF8FD6A11528CB100D3F9B4</string>
-				<string>4BEB825A1152921000491CF5</string>
+				<string>4BB9F50411564B48001BC040</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -611,14 +613,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>4BEB825B1152921000491CF5</string>
+				<string>4BB9F50511564B48001BC040</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>4BEB825C1152921000491CF5</string>
-				<string>4BEB825D1152921000491CF5</string>
-				<string>4BEB825E1152921000491CF5</string>
-				<string>4BEB825F1152921000491CF5</string>
-				<string>4BEB82601152921000491CF5</string>
+				<string>4BB9F50611564B48001BC040</string>
+				<string>4BB9F50711564B48001BC040</string>
+				<string>4BB9F50811564B48001BC040</string>
+				<string>4BB9F50911564B48001BC040</string>
+				<string>4BB9F50A11564B48001BC040</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
 			<string>2</string>
@@ -652,8 +654,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>4BEB82611152921000491CF5</string>
-		<string>4BEB82621152921000491CF5</string>
 		<string>/Users/alinour/Documents/CustomSwitch/CustomSwitch.xcodeproj</string>
 	</array>
 	<key>WindowString</key>

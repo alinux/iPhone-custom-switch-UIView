@@ -3,7 +3,7 @@
 //  CustomSwitch
 //
 //  Created by Ali Nour on 3/18/10.
-//  Copyright Apple Inc 2010. All rights reserved.
+//  Copyright BadrIT 2010. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

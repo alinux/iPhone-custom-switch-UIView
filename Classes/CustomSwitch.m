@@ -1,9 +1,8 @@
 //
 //  CustomSwitch.m
-//  todo
-//
+//  
 //  Created by Ali Nour on 3/10/10.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//  Copyright 2010 BadrIT. All rights reserved.
 //
 
 #import "CustomSwitch.h"

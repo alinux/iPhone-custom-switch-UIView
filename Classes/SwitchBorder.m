@@ -3,7 +3,7 @@
 //  todo
 //
 //  Created by Ali Nour on 3/17/10.
-//  Copyright 2010 Apple Inc. All rights reserved.
+//  Copyright 2010 BadrIT. All rights reserved.
 //
 
 #import "SwitchBorder.h"
@@ -22,8 +22,6 @@
 }
 
 
-// Only override drawRect: if you perform custom drawing.
-// An empty implementation adversely affects performance during animation.
 - (void)drawRect:(CGRect)rect {
     // Drawing code
 	CGContextRef context = UIGraphicsGetCurrentContext();

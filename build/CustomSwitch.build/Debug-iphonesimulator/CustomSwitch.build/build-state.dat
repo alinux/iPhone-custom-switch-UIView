@@ -1,7 +1,7 @@
 TCustomSwitch
 v7
 r0
-t290624592.618319
+t290868038.908031
 cCheck dependencies
 cProcessInfoPlistFile /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/Info.plist CustomSwitch-Info.plist
 cCompileXIB /Users/alinour/Documents/CustomSwitch/MainWindow.xib
@@ -73,9 +73,9 @@ t1195942150
 s1207
 
 N/Users/alinour/Documents/CustomSwitch/Classes/CustomSwitch.h
-c000000004BA23D1B000000000000051E
-t1268923675
-s1310
+c000000004BA611B4000000000000050A
+t1269174708
+s1290
 i<UIKit/UIKit.h>
 i<QuartzCore/CAGradientLayer.h>
 i"GlossyLabel.h"
@@ -83,61 +83,61 @@ i"SwitchSlider.h"
 i"SwitchBorder.h"
 
 N/Users/alinour/Documents/CustomSwitch/Classes/CustomSwitch.m
-c000000004BA25C73000000000000123A
-t1268931699
-s4666
+c000000004BA612640000000000001228
+t1269174884
+s4648
 i"CustomSwitch.h"
 
 N/Users/alinour/Documents/CustomSwitch/Classes/CustomSwitchAppDelegate.h
-c000000004BA254710000000000000254
-t1268929649
-s596
+c000000004BA613AE0000000000000251
+t1269175214
+s593
 i<UIKit/UIKit.h>
 i<CoreData/CoreData.h>
 i"CustomSwitch.h"
 
 N/Users/alinour/Documents/CustomSwitch/Classes/CustomSwitchAppDelegate.m
-c000000004BA25BB100000000000013B5
-t1268931505
-s5045
+c000000004BA613BE00000000000013B2
+t1269175230
+s5042
 i"CustomSwitchAppDelegate.h"
 
 N/Users/alinour/Documents/CustomSwitch/Classes/GlossyLabel.h
-c000000004BA0E176000000000000010D
-t1268834678
-s269
+c000000004BA612F200000000000000F9
+t1269175026
+s249
 i<UIKit/UIKit.h>
 
 N/Users/alinour/Documents/CustomSwitch/Classes/GlossyLabel.m
-c000000004BA2101B000000000000060E
-t1268912155
-s1550
+c000000004BA6132A00000000000005FA
+t1269175082
+s1530
 i"GlossyLabel.h"
 i<math.h>
 
 N/Users/alinour/Documents/CustomSwitch/Classes/SwitchBorder.h
-c000000004BA1EF660000000000000142
-t1268903782
-s322
+c000000004BA613370000000000000136
+t1269175095
+s310
 i<UIKit/UIKit.h>
 i"CustomSwitch.h"
 
 N/Users/alinour/Documents/CustomSwitch/Classes/SwitchBorder.m
-c000000004BA25CCD0000000000000516
-t1268931789
-s1302
+c000000004BA61359000000000000048E
+t1269175129
+s1166
 i"SwitchBorder.h"
 
 N/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.h
-c000000004BA243DD0000000000000131
-t1268925405
-s305
+c000000004BA613680000000000000125
+t1269175144
+s293
 i<UIKit/UIKit.h>
 
 N/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m
-c000000004BA243E600000000000009A1
-t1268925414
-s2465
+c000000004BA613950000000000000937
+t1269175189
+s2359
 i"SwitchSlider.h"
 i"CustomSwitch.h"
 i<QuartzCore/CAGradientLayer.h>
@@ -162,7 +162,7 @@ t1268929590
 s8675
 
 N/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitch-F9DBE31F0C0B479A.o
-t1268931700
+t1269175234
 s26700
 
 N/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitch.LinkFileList
@@ -171,19 +171,19 @@ t1268929697
 s853
 
 N/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitchAppDelegate.o
-t1268931505
+t1269175234
 s28800
 
 N/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/GlossyLabel.o
-t1268929698
+t1269175234
 s13684
 
 N/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/SwitchBorder.o
-t1268931792
+t1269175234
 s14548
 
 N/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/SwitchSlider.o
-t1268929698
+t1269175234
 s17184
 
 N/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/main.o
@@ -191,15 +191,15 @@ t1268929698
 s5948
 
 N/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app
-t1268931792
+t1269175235
 s238
 
 N/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app.dSYM
-t1268931792
+t1269175235
 s102
 
 N/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch
-t1268931792
+t1269175234
 s39504
 
 N/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch.momd
@@ -235,11 +235,11 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies290624592#290624592#0(0"0(0#1#0"4300911832#0"0#
+lSLF07#2@18"Check dependencies290868038#290868038#0(0"0(0#1#0"4300911832#0"0#
 
 CCompileC build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitch-F9DBE31F0C0B479A.o /Users/alinour/Documents/CustomSwitch/Classes/CustomSwitch.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s290624500.094961
-e290624500.180988
+s290868034.021939
+e290868034.184136
 r1
 xCompileC
 xbuild/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitch-F9DBE31F0C0B479A.o
@@ -248,11 +248,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@68"Compile /Users/alinour/Documents/CustomSwitch/Classes/CustomSwitch.m290624500#290624500#0(0"0(0#0#60"/Users/alinour/Documents/CustomSwitch/Classes/CustomSwitch.m4300911832#1989"    cd /Users/alinour/Documents/CustomSwitch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-generated-files.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-own-target-headers.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-all-target-headers.hmap -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-project-headers.hmap -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -I/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/include -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources/i386 -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources -include /var/folders/wa/wa698zRuECyf409+n8Y-SE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomSwitch_Prefix-gbgxujukkshlaldfvovmxcgrwdpi/CustomSwitch_Prefix.pch -c /Users/alinour/Documents/CustomSwitch/Classes/CustomSwitch.m -o /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitch-F9DBE31F0C0B479A.o0#
+lSLF07#2@68"Compile /Users/alinour/Documents/CustomSwitch/Classes/CustomSwitch.m290868034#290868034#0(0"0(0#0#60"/Users/alinour/Documents/CustomSwitch/Classes/CustomSwitch.m4300911832#2051"    cd /Users/alinour/Documents/CustomSwitch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-generated-files.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-own-target-headers.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-all-target-headers.hmap -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-project-headers.hmap -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -I/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/include -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources/i386 -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources -include /var/folders/wa/wa698zRuECyf409+n8Y-SE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomSwitch_Prefix-gbgxujukkshlaldfvovmxcgrwdpi/CustomSwitch_Prefix.pch -c /Users/alinour/Documents/CustomSwitch/Classes/CustomSwitch.m -o /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitch-F9DBE31F0C0B479A.o0#
 
 CCompileC build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitchAppDelegate.o /Users/alinour/Documents/CustomSwitch/Classes/CustomSwitchAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s290624305.620361
-e290624305.699113
+s290868033.913982
+e290868034.106827
 r1
 xCompileC
 xbuild/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitchAppDelegate.o
@@ -261,11 +261,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@79"Compile /Users/alinour/Documents/CustomSwitch/Classes/CustomSwitchAppDelegate.m290624305#290624305#0(0"0(0#0#71"/Users/alinour/Documents/CustomSwitch/Classes/CustomSwitchAppDelegate.m4300911832#1994"    cd /Users/alinour/Documents/CustomSwitch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-generated-files.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-own-target-headers.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-all-target-headers.hmap -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-project-headers.hmap -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -I/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/include -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources/i386 -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources -include /var/folders/wa/wa698zRuECyf409+n8Y-SE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomSwitch_Prefix-gbgxujukkshlaldfvovmxcgrwdpi/CustomSwitch_Prefix.pch -c /Users/alinour/Documents/CustomSwitch/Classes/CustomSwitchAppDelegate.m -o /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitchAppDelegate.o0#
+lSLF07#2@79"Compile /Users/alinour/Documents/CustomSwitch/Classes/CustomSwitchAppDelegate.m290868033#290868034#0(0"0(0#0#71"/Users/alinour/Documents/CustomSwitch/Classes/CustomSwitchAppDelegate.m6011583623553434624#2056"    cd /Users/alinour/Documents/CustomSwitch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-generated-files.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-own-target-headers.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-all-target-headers.hmap -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-project-headers.hmap -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -I/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/include -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources/i386 -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources -include /var/folders/wa/wa698zRuECyf409+n8Y-SE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomSwitch_Prefix-gbgxujukkshlaldfvovmxcgrwdpi/CustomSwitch_Prefix.pch -c /Users/alinour/Documents/CustomSwitch/Classes/CustomSwitchAppDelegate.m -o /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitchAppDelegate.o0#
 
 CCompileC build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/GlossyLabel.o /Users/alinour/Documents/CustomSwitch/Classes/GlossyLabel.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s290622498.454064
-e290622498.517044
+s290868034.106951
+e290868034.250047
 r1
 xCompileC
 xbuild/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/GlossyLabel.o
@@ -274,11 +274,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@67"Compile /Users/alinour/Documents/CustomSwitch/Classes/GlossyLabel.m290622498#290622498#0(0"0(0#0#59"/Users/alinour/Documents/CustomSwitch/Classes/GlossyLabel.m4300911832#1970"    cd /Users/alinour/Documents/CustomSwitch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-generated-files.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-own-target-headers.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-all-target-headers.hmap -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-project-headers.hmap -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -I/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/include -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources/i386 -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources -include /var/folders/wa/wa698zRuECyf409+n8Y-SE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomSwitch_Prefix-gbgxujukkshlaldfvovmxcgrwdpi/CustomSwitch_Prefix.pch -c /Users/alinour/Documents/CustomSwitch/Classes/GlossyLabel.m -o /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/GlossyLabel.o0#
+lSLF07#2@67"Compile /Users/alinour/Documents/CustomSwitch/Classes/GlossyLabel.m290868034#290868034#0(0"0(0#0#59"/Users/alinour/Documents/CustomSwitch/Classes/GlossyLabel.m4300911832#2032"    cd /Users/alinour/Documents/CustomSwitch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-generated-files.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-own-target-headers.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-all-target-headers.hmap -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-project-headers.hmap -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -I/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/include -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources/i386 -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources -include /var/folders/wa/wa698zRuECyf409+n8Y-SE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomSwitch_Prefix-gbgxujukkshlaldfvovmxcgrwdpi/CustomSwitch_Prefix.pch -c /Users/alinour/Documents/CustomSwitch/Classes/GlossyLabel.m -o /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/GlossyLabel.o0#
 
 CCompileC build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/SwitchBorder.o /Users/alinour/Documents/CustomSwitch/Classes/SwitchBorder.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s290624592.511330
-e290624592.575590
+s290868034.184232
+e290868034.309209
 r1
 xCompileC
 xbuild/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/SwitchBorder.o
@@ -287,11 +287,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@68"Compile /Users/alinour/Documents/CustomSwitch/Classes/SwitchBorder.m290624592#290624592#0(0"0(0#0#60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchBorder.m4300911832#1972"    cd /Users/alinour/Documents/CustomSwitch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-generated-files.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-own-target-headers.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-all-target-headers.hmap -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-project-headers.hmap -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -I/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/include -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources/i386 -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources -include /var/folders/wa/wa698zRuECyf409+n8Y-SE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomSwitch_Prefix-gbgxujukkshlaldfvovmxcgrwdpi/CustomSwitch_Prefix.pch -c /Users/alinour/Documents/CustomSwitch/Classes/SwitchBorder.m -o /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/SwitchBorder.o0#
+lSLF07#2@68"Compile /Users/alinour/Documents/CustomSwitch/Classes/SwitchBorder.m290868034#290868034#0(0"0(0#0#60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchBorder.m4300911832#2034"    cd /Users/alinour/Documents/CustomSwitch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-generated-files.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-own-target-headers.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-all-target-headers.hmap -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-project-headers.hmap -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -I/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/include -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources/i386 -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources -include /var/folders/wa/wa698zRuECyf409+n8Y-SE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomSwitch_Prefix-gbgxujukkshlaldfvovmxcgrwdpi/CustomSwitch_Prefix.pch -c /Users/alinour/Documents/CustomSwitch/Classes/SwitchBorder.m -o /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/SwitchBorder.o0#
 
 CCompileC build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/SwitchSlider.o /Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s290622498.556805
-e290622498.689400
+s290868034.250148
+e290868034.374756
 r1
 xCompileC
 xbuild/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/SwitchSlider.o
@@ -301,12 +301,12 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 o/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m: In function '-[SwitchSlider drawRect:]':
-o/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:44: warning: passing argument 1 of 'CGPathMoveToPoint' discards qualifiers from pointer target type
+o/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:42: warning: passing argument 1 of 'CGPathMoveToPoint' discards qualifiers from pointer target type
+o/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:44: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type
+o/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:45: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type
 o/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:46: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type
 o/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:47: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type
-o/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:48: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type
-o/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:49: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type
-lSLF07#2@68"Compile /Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290622498#290622498#0(916"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m: In function '-[SwitchSlider drawRect:]':/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:44: warning: passing argument 1 of 'CGPathMoveToPoint' discards qualifiers from pointer target type/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:46: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:47: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:48: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:49: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type5(22@86"Passing argument 1 of 'CGPathMoveToPoint' discards qualifiers from pointer target type290622498#103#161#0(6@60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290618214#44#0#44#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@88"Passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type290622498#264#163#0(6@60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290618214#46#0#46#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@88"Passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type290622498#427#163#0(6@60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290618214#47#0#47#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@88"Passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type290622498#590#163#0(6@60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290618214#48#0#48#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@88"Passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type290622498#753#163#0(6@60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290618214#49#0#49#0#70"passing argument * of '*' discards qualifiers from pointer target type0(0#0#60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m4300911832#1972"    cd /Users/alinour/Documents/CustomSwitch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-generated-files.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-own-target-headers.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-all-target-headers.hmap -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-project-headers.hmap -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -I/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/include -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources/i386 -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources -include /var/folders/wa/wa698zRuECyf409+n8Y-SE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomSwitch_Prefix-gbgxujukkshlaldfvovmxcgrwdpi/CustomSwitch_Prefix.pch -c /Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m -o /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/SwitchSlider.o0#
+lSLF07#2@68"Compile /Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290868034#290868034#0(916"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m: In function '-[SwitchSlider drawRect:]':/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:42: warning: passing argument 1 of 'CGPathMoveToPoint' discards qualifiers from pointer target type/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:44: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:45: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:46: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m:47: warning: passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type5(22@86"Passing argument 1 of 'CGPathMoveToPoint' discards qualifiers from pointer target type290868034#103#161#0(6@60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290867989#42#0#42#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@88"Passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type290868034#264#163#0(6@60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290867989#44#0#44#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@88"Passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type290868034#427#163#0(6@60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290867989#45#0#45#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@88"Passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type290868034#590#163#0(6@60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290867989#46#0#46#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@88"Passing argument 1 of 'CGPathAddArcToPoint' discards qualifiers from pointer target type290868034#753#163#0(6@60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m290867989#47#0#47#0#70"passing argument * of '*' discards qualifiers from pointer target type0(0#0#60"/Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m4300911832#2034"    cd /Users/alinour/Documents/CustomSwitch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-generated-files.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-own-target-headers.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-all-target-headers.hmap -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-project-headers.hmap -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -I/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/include -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources/i386 -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources -include /var/folders/wa/wa698zRuECyf409+n8Y-SE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomSwitch_Prefix-gbgxujukkshlaldfvovmxcgrwdpi/CustomSwitch_Prefix.pch -c /Users/alinour/Documents/CustomSwitch/Classes/SwitchSlider.m -o /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/SwitchSlider.o0#
 
 CCompileC build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/main.o /Users/alinour/Documents/CustomSwitch/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s290622498.321613
@@ -339,23 +339,23 @@ x/Users/alinour/Documents/CustomSwitch/CustomSwitch.xcdatamodeld
 lSLF07#2@112"DataModelVersionCompile build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch.momd CustomSwitch.xcdatamodeld290622498#290622498#0(0"0(0#0#63"/Users/alinour/Documents/CustomSwitch/CustomSwitch.xcdatamodeld4300911832#398"    cd /Users/alinour/Documents/CustomSwitch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/alinour/Documents/CustomSwitch/CustomSwitch.xcdatamodeld /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch.momd0#
 
 CGenerateDSYMFile /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app.dSYM /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch
-s290624592.598496
-e290624592.614946
+s290868034.972949
+e290868035.013423
 r1
 xGenerateDSYMFile
 x/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app.dSYM
 x/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch
-lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/CustomSwitch.app.dSYM build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch290624592#290624592#0(0"0(0#0#95"/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch4300911832#395"    cd /Users/alinour/Documents/CustomSwitch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch -o /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app.dSYM0#
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/CustomSwitch.app.dSYM build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch290868034#290868035#0(0"0(0#0#95"/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch4300911832#457"    cd /Users/alinour/Documents/CustomSwitch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch -o /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app.dSYM0#
 
 CLd /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch normal i386
-s290624592.575684
-e290624592.598393
+s290868034.374855
+e290868034.972842
 r1
 xLd
 x/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch
 xnormal
 xi386
-lSLF07#2@100"Link /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch290624592#290624592#0(0"0(0#0#0"4300911832#904"    cd /Users/alinour/Documents/CustomSwitch    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -filelist /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitch.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch0#
+lSLF07#2@100"Link /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch290868034#290868034#0(0"0(0#0#0"29273878621126700#966"    cd /Users/alinour/Documents/CustomSwitch    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -filelist /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/Objects-normal/i386/CustomSwitch.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/CustomSwitch0#
 
 CProcessInfoPlistFile /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app/Info.plist CustomSwitch-Info.plist
 s290622497.336553
@@ -380,10 +380,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@34"Precompile CustomSwitch_Prefix.pch290622497#290622498#0(0"0(0#0#61"/Users/alinour/Documents/CustomSwitch/CustomSwitch_Prefix.pch4300911832#1836"    cd /Users/alinour/Documents/CustomSwitch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-generated-files.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-own-target-headers.hmap -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-all-target-headers.hmap -iquote /Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/CustomSwitch-project-headers.hmap -F/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator -I/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/include -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources/i386 -I/Users/alinour/Documents/CustomSwitch/build/CustomSwitch.build/Debug-iphonesimulator/CustomSwitch.build/DerivedSources -c /Users/alinour/Documents/CustomSwitch/CustomSwitch_Prefix.pch -o /var/folders/wa/wa698zRuECyf409+n8Y-SE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomSwitch_Prefix-gbgxujukkshlaldfvovmxcgrwdpi/CustomSwitch_Prefix.pch.gch0#
 
 CTouch /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app
-s290624592.615035
-e290624592.618269
+s290868035.013512
+e290868035.016103
 r1
 xTouch
 x/Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app
-lSLF07#2@88"Touch /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app290624592#290624592#0(0"0(0#0#0"4300911832#281"    cd /Users/alinour/Documents/CustomSwitch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app0#
+lSLF07#2@88"Touch /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app290868035#290868035#0(0"0(0#0#0"4300911832#343"    cd /Users/alinour/Documents/CustomSwitch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/alinour/Documents/CustomSwitch/build/Debug-iphonesimulator/CustomSwitch.app0#
 

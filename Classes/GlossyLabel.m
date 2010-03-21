@@ -1,9 +1,8 @@
 //
 //  background.m
-//  todo
 //
 //  Created by Ali Nour on 3/11/10.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//  Copyright 2010 BadrIT. All rights reserved.
 //
 
 #import "GlossyLabel.h"

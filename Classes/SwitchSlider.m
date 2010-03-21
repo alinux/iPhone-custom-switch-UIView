@@ -1,9 +1,8 @@
 //
 //  SwitchSlider.m
-//  todo
 //
 //  Created by Ali Nour on 3/17/10.
-//  Copyright 2010 Apple Inc. All rights reserved.
+//  Copyright 2010 BadrIT. All rights reserved.
 //
 
 #import "SwitchSlider.h"
@@ -29,8 +28,6 @@
     return self;
 }
 
-// Only override drawRect: if you perform custom drawing.
-// An empty implementation adversely affects performance during animation.
 - (void)drawRect:(CGRect)rect {
 	// Drawing gray rounded rectangle with glossy effect
 	CGContextRef context = UIGraphicsGetCurrentContext();
@@ -41,6 +38,7 @@
 	CGFloat height = rect.size.height;
 	CGFloat radius = 2*[CustomSwitch margin];
 
+	// Don't worry from these warnings :)
 	CGPathMoveToPoint(path, NULL, 0, floor(height/2));
 	
 	CGPathAddArcToPoint(path, NULL, 0, 0, floor(width/2), 0, radius);
