@@ -2,10 +2,14 @@
 THIS IS AN Xcode PROJECT TO DEMONSTRATE THE USAGE OF CustomSwitch CLASS.
 ----------------------------------------------------------------------------------------
 UISwitch
-We used this control in iPhone views and sometimes we wished if it has any customization. Only on/off labels for the switch and when the language is not english the labels become I/O, beside the blue and gray colors. All of that derived  us to build up the CustomSwitch controller.
+We used this control in iPhone views and sometimes we wished if it has any customization.
+Only on/off labels for the switch and when the language is not english the labels become
+I/O, beside the blue and gray colors. All of that derived  us to build up the
+CustomSwitch controller.
 
 CustomSwitch
-It's an UIView subclass which build up a custom switch controller having the following customized properties:
+It's an UIView subclass which build up a custom switch controller having the following
+ customized properties:
 1. On label text.
 2. Off label text.
 3. On label background color.
