@@ -1,0 +1,35 @@
+----------------------------------------------------------------------------------------
+THIS IS AN Xcode PROJECT TO DEMONSTRATE THE USAGE OF CustomSwitch CLASS.
+----------------------------------------------------------------------------------------
+UISwitch
+We used this control in iPhone views and sometimes we wished if it has any customization. Only on/off labels for the switch and when the language is not english the labels become I/O, beside the blue and gray colors. All of that derived  us to build up the CustomSwitch controller.
+
+CustomSwitch
+It's an UIView subclass which build up a custom switch controller having the following customized properties:
+1. On label text.
+2. Off label text.
+3. On label background color.
+4. Off label background color.
+5. On label text color.
+6. Off label text color.
+7. The slider color.
+It has a delegate object to notify any assigned object of the change of value event.
+NOTE: It resizes itself to contain the labels text.
+----------------------------------------------------------------------------------------
+How to use:
+------------
+1. Initialize with the appropriate frame.
+2. Add it as a subview.
+3. release.
+
+Example:
+---------
+	CustomSwitch *cSwitch = [[CustomSwitch alloc] initWithFrame:CGRectMake(50, 50, 0, 0)];
+	[window addSubview:cSwitch];
+	[cSwitch release];
+----------------------------------------------------------------------------------------
+Other classes:
+--------------
+GlossyLabel: an ordinary label with glossy effect used to represent the on/off labels.
+SwitchSlider: the slider view in the CustomSwitch.
+SwitchBorder: Border view in the CustomSwitch.
